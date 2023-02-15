@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+body {
+    background-color: #B9F3FC;
+    font-family: unbounded, Arial, Helvetica, sans-serif
+}
+
+nav {
+    background-color: white;
+    padding: 5px;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+    
+
+}
+
+.section-1 {
+    background-color: #AEE2FF;
+    padding: 10px;
+}
+
+.section-2 {
+    background-color: #93C6E7;
+    padding: 10px;
+}
+
+#special-1 {
+    color: red;
+}
+
+footer {
+    background-color: #FEDEFF;
+    padding: 20px;
+}
